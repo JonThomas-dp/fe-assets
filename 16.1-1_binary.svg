@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150">
+  <defs></defs>
+  <rect x="140" y="20" width="350" height="110" fill="none" stroke="black"/>
+  <rect x="140" y="20" width="350" height="40" fill="#9fb6df" stroke="none"/>
+  <rect x="140" y="60" width="350" height="40" fill="#9fb6df" stroke="none"/>
+  <line x1="140" y1="60" x2="490" y2="60" stroke="black"/>
+  <line x1="140" y1="100" x2="490" y2="100" stroke="black"/>
+  <line x1="210" y1="20" x2="210" y2="130" stroke="black"/>
+  <line x1="280" y1="20" x2="280" y2="130" stroke="black"/>
+  <line x1="350" y1="20" x2="350" y2="130" stroke="black"/>
+  <line x1="420" y1="20" x2="420" y2="130" stroke="black"/>
+
+  <text x="10" y="45" font-size="14">Powers of 10</text>
+  <text x="10" y="85" font-size="14">Place Values</text>
+  <text x="10" y="125" font-size="14">Decimal Values</text>
+
+  <text x="175" y="45" font-size="18" text-anchor="middle">10<tspan font-size="11" baseline-shift="super">4</tspan></text>
+  <text x="245" y="45" font-size="18" text-anchor="middle">10<tspan font-size="11" baseline-shift="super">3</tspan></text>
+  <text x="315" y="45" font-size="18" text-anchor="middle">10<tspan font-size="11" baseline-shift="super">2</tspan></text>
+  <text x="385" y="45" font-size="18" text-anchor="middle">10<tspan font-size="11" baseline-shift="super">1</tspan></text>
+  <text x="455" y="45" font-size="18" text-anchor="middle">10<tspan font-size="11" baseline-shift="super">0</tspan></text>
+
+  <text x="175" y="85" font-size="16" text-anchor="middle">10000</text>
+  <text x="245" y="85" font-size="16" text-anchor="middle">1000</text>
+  <text x="315" y="85" font-size="16" text-anchor="middle">100</text>
+  <text x="385" y="85" font-size="16" text-anchor="middle">10</text>
+  <text x="455" y="85" font-size="16" text-anchor="middle">1</text>
+
+  <text x="175" y="125" font-size="16" text-anchor="middle">5</text>
+  <text x="245" y="125" font-size="16" text-anchor="middle">8</text>
+  <text x="315" y="125" font-size="16" text-anchor="middle">3</text>
+  <text x="385" y="125" font-size="16" text-anchor="middle">6</text>
+  <text x="455" y="125" font-size="16" text-anchor="middle">2</text>
+</svg>
