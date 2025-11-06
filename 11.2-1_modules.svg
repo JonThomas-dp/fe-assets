@@ -1,0 +1,18 @@
+<svg width="560" height="230" viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg">
+  <text x="12" y="16" font-size="12">Imported Modules</text>
+  <text x="380" y="16" font-size="16" font-weight="bold" text-anchor="middle">Your Program</text>
+  <rect x="0" y="24" width="540" height="190" fill="none" stroke="black" stroke-dasharray="4 3" />
+  <rect x="10" y="34" width="160" height="180" fill="none" stroke="black" />
+  <rect x="20" y="44" width="140" height="26" fill="white" stroke="black" />
+  <text x="90" y="61" font-size="14" text-anchor="middle">datetime</text>
+  <rect x="20" y="78" width="140" height="26" fill="white" stroke="black" />
+  <text x="90" y="95" font-size="14" text-anchor="middle">calendar</text>
+  <rect x="20" y="112" width="140" height="26" fill="white" stroke="black" />
+  <text x="90" y="129" font-size="14" text-anchor="middle">numpy</text>
+  <rect x="20" y="146" width="140" height="26" fill="white" stroke="black" />
+  <text x="90" y="163" font-size="14" text-anchor="middle">pandas</text>
+  <rect x="20" y="180" width="140" height="26" fill="white" stroke="black" />
+  <text x="90" y="197" font-size="14" text-anchor="middle">scikit-learn</text>
+  <rect x="330" y="70" width="160" height="90" fill="white" stroke="black" />
+  <text x="410" y="118" font-size="14" text-anchor="middle">Your Custom Code</text>
+</svg>
